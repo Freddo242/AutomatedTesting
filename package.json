@@ -1,0 +1,22 @@
+{
+  "name": "automatedtesting",
+  "version": "1.0.0",
+  "description": "tests for appium",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freddo242/AutomatedTesting.git"
+  },
+  "author": "Freddo242",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freddo242/AutomatedTesting/issues"
+  },
+  "homepage": "https://github.com/Freddo242/AutomatedTesting#readme",
+  "devDependencies": {
+    "webdriverio": "^8.16.10"
+  }
+}
